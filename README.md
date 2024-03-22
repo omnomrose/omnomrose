@@ -9,9 +9,9 @@
 
 <h2 align="center">Development Tools 👩🏻‍💻</h2>
   <p align="center">
-    <a href="https://github.com/search?q=user%3Aomnomrose+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next-51775B?style=for-the-badge&logo=next.js&logoColor=white">
       <a href="https://github.com/search?q=user%3Aomnomrose+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-51775B.svg?logo=javascript&logoColor=black">     </a>
     <a href="https://github.com/search?q=user%3Aomnomrose+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-51775B.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aomnomrose+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next-51775B?style=for-the-badge&logo=next.js&logoColor=white">
     <a href="https://github.com/search?q=user%3Aomnomrose+language%3Afirebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-51775B?style=for-the-badge&logo=Firebase&logoColor=white"></a>
   </p>
     
