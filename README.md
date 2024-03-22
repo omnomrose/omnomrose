@@ -29,11 +29,15 @@
 <br>
 
 <h2 align="center">Design Tools 👩🏻‍🎨</h2>
-<p align="center">
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-51775B.svg?logo=adobe&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-51775B.svg?style=for-the-badge&logo=figma&logoColor=white"</a>
-  <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-51775B.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
-      <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-51775B.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
-  <a href="#"><img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-51775B?style=for-the-badge&logo=adobeindesign&logoColor=white"></a>
-  <a href="#"><img alt="Framer" src="https://img.shields.io/badge/Framer-51775B?style=for-the-badge&logo=framer&logoColor=blue"></a>
+  <p align="center">
+  <p align="center">
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-51775B.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-51775B.svg?style=for-the-badge&logo=figma&logoColor=white"</a>
+    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-51775B.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+  </p>
+  <p align="center">
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-51775B.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
+      <a href="#"><img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-51775B?style=for-the-badge&logo=adobeindesign&logoColor=white"></a>
+      <a href="#"><img alt="Framer" src="https://img.shields.io/badge/Framer-51775B?style=for-the-badge&logo=framer&logoColor=blue"></a>
+  </p>
 </p>
