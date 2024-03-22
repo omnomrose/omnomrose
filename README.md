@@ -24,11 +24,12 @@
 </p>
 
 <h2>Design Tools 👩🏻‍🎨</h2>
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"</a>
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-<a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
-<a href="#"><img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></a>
-
+<p>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"</a>
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+  <a href="#"><img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></a>
+</p>
 
 <br>
 </p>
