@@ -1,11 +1,9 @@
-<h1 align="center">Hi, my name is Rose Nguyen! ⋆𐙚₊˚⊹♡</h1>
+<h1 align="center">⋆𐙚₊˚⊹♡ Hi, my name is Rose Nguyen ⋆𐙚₊˚⊹♡</h1>
+<h3 align="center">A UX/UI Designer that occasionally indulges in development</h3>
 
   <p align="center">
         <a href="https://www.linkedin.com/in/maryrose-nguyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    </p>
-    <a href="https://maryrosenguyen.com/">
-      <img alt="Portfolio Link" title="Check out my portfolio!" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Rose%20Nguyen's%20Website-lightblue">
-    </a>
+        <a href="https://maryrosenguyen.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#F4D3D6)"</a>
   </p>
     <br>
 
@@ -24,6 +22,7 @@
 
 <h3 align="center">Favourite Libraries 📚</h3>
 <p align="center">
+    <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=whit"></a>
   <a href="#"><img alt="DaisyUI" src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"></a>
 </p>
 
@@ -31,8 +30,8 @@
 
 <h2 align="center">Design Tools 👩🏻‍🎨</h2>
 <p align="center">
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"</a>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"</a>
   <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
   <a href="#"><img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></a>
 </p>
