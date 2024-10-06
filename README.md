@@ -1,4 +1,4 @@
-<h1 align="left">⋆𐙚₊˚⊹♡ Hi, my name is Rose Nguyen</h1>
+<h1 align="left">Hi, my name is Rose Nguyen</h1>
 <h4 align="left">A UX/UI Designer who occasionally indulges in development!</h4>
 
   <p align="left">
